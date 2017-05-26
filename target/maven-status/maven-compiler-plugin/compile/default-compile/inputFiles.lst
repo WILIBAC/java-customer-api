@@ -1,5 +1,5 @@
-/home/jnda/NetBeansProjects/ClienteBackend/src/main/java/service/ApplicationConfig.java
-/home/jnda/NetBeansProjects/ClienteBackend/src/main/java/service/NewCrossOriginResourceSharingFilter.java
-/home/jnda/NetBeansProjects/ClienteBackend/src/main/java/com/edu/udea/clientebackend/entity/Cliente.java
-/home/jnda/NetBeansProjects/ClienteBackend/src/main/java/service/AbstractFacade.java
-/home/jnda/NetBeansProjects/ClienteBackend/src/main/java/service/ClienteFacadeREST.java
+/home/jnda/NetBeansProjects/lab4Angular/ClienteBackend/src/main/java/com/edu/udea/clientebackend/entity/Cliente.java
+/home/jnda/NetBeansProjects/lab4Angular/ClienteBackend/src/main/java/service/ApplicationConfig.java
+/home/jnda/NetBeansProjects/lab4Angular/ClienteBackend/src/main/java/service/AbstractFacade.java
+/home/jnda/NetBeansProjects/lab4Angular/ClienteBackend/src/main/java/service/ClienteFacadeREST.java
+/home/jnda/NetBeansProjects/lab4Angular/ClienteBackend/src/main/java/service/NewCrossOriginResourceSharingFilter.java
