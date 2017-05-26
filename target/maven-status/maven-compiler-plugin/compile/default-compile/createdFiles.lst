@@ -1,0 +1,5 @@
+service/NewCrossOriginResourceSharingFilter.class
+service/ApplicationConfig.class
+service/ClienteFacadeREST.class
+service/AbstractFacade.class
+com/edu/udea/clientebackend/entity/Cliente.class
